@@ -98,3 +98,6 @@ This section will list some readings that will help you understand more about th
 3. [Germline short variant discovery (SNPs + Indels)](https://software.broadinstitute.org/gatk/best-practices/workflow?id=11145), section "Main Steps > Call variants per-sample", the other sections are optional and are usually not relevant.
 
 Although only certain sections are mentioned here, it's highly recommended to read other sections in those documentations. 
+
+
+[Next](BioTools.md)

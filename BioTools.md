@@ -52,3 +52,8 @@ Using documentation from https://software.broadinstitute.org/gatk/
 You can enter the GATK command (for example baserecalibration) to the right top textbox on that webpage, and click on the GATK tab in the search results, and the first one is the detailed documentation of that command. 
 
 Of course, make good use of google.
+
+
+
+[Previous](README.md)
+[Next](InstallTools.md)
